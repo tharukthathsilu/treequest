@@ -1,10 +1,11 @@
 [project]
 name = "treequest"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Tree Search Library with Flexible API for LLM Inference-Time Scaling"
 readme = "README.md"
 authors = [
-    { name = "takkyu2", email = "mk940se@gmail.com" }
+    { name = "Kou Misaki", email = "kou.misaki@sakana.ai" },
+    { name = "Takuya Akiba", email = "takiba@sakana.ai" },
 ]
 requires-python = ">=3.11"
 dependencies = [
